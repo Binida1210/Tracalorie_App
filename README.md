@@ -39,8 +39,8 @@ A simple web app to track daily calorie intake and burn.
 
 ### 2. **Cute Version**
 
-- **File**: `index-cute.html`
-- **Style**: Sweet design, pastel colors, easy on eyes
+- **File**: `indexES2022.html` 
+- **Style**: Sweet design, pastel colors
 - **Good for**: Users who like cute, friendly interface
 
 ## 🚀 How to Use
